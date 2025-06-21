@@ -3,7 +3,7 @@
 # website: https://gohugo.io
 
 # environment
-my-identity
+# hugoenv
 
 # generated files by hugo
 /public/
